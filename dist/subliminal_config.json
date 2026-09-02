@@ -1,0 +1,304 @@
+{
+  "library": {
+    "Foco & Concentração": {
+      "weight": 20,
+      "active": true,
+      "messages": [
+        {
+          "text": "Minha mente está completamente focada",
+          "weight": 10
+        },
+        {
+          "text": "Elimino distrações com facilidade",
+          "weight": 10
+        },
+        {
+          "text": "Concentro-me profundamente em cada tarefa",
+          "weight": 10
+        },
+        {
+          "text": "Minha atenção é afiada e precisa",
+          "weight": 8
+        },
+        {
+          "text": "Trabalho com clareza mental absoluta",
+          "weight": 10
+        },
+        {
+          "text": "Permaneço no estado de fluxo facilmente",
+          "weight": 9
+        },
+        {
+          "text": "Sou imune a distrações externas",
+          "weight": 8
+        },
+        {
+          "text": "Cada minuto meu é produtivo e valioso",
+          "weight": 7
+        }
+      ]
+    },
+    "Confiança & Autoestima": {
+      "weight": 20,
+      "active": true,
+      "messages": [
+        {
+          "text": "Sou confiante e seguro de mim mesmo",
+          "weight": 10
+        },
+        {
+          "text": "Acredito no meu potencial ilimitado",
+          "weight": 10
+        },
+        {
+          "text": "Mereço todo o sucesso que conquisto",
+          "weight": 9
+        },
+        {
+          "text": "Sou capaz de realizar qualquer objetivo",
+          "weight": 10
+        },
+        {
+          "text": "Minha autoestima cresce a cada dia",
+          "weight": 8
+        },
+        {
+          "text": "Expresso minha confiança naturalmente",
+          "weight": 8
+        },
+        {
+          "text": "Sou digno de amor e respeito",
+          "weight": 9
+        },
+        {
+          "text": "Minha presença irradia segurança e poder",
+          "weight": 7
+        },
+        {
+          "text": "Acredito em mim mesmo completamente",
+          "weight": 10
+        }
+      ]
+    },
+    "Motivação & Produtividade": {
+      "weight": 20,
+      "active": true,
+      "messages": [
+        {
+          "text": "Tenho energia e motivação abundantes",
+          "weight": 10
+        },
+        {
+          "text": "Ajo com determinação e propósito claro",
+          "weight": 10
+        },
+        {
+          "text": "Cada ação me aproxima dos meus sonhos",
+          "weight": 9
+        },
+        {
+          "text": "Sou altamente produtivo e eficiente",
+          "weight": 10
+        },
+        {
+          "text": "A disciplina é minha maior aliada",
+          "weight": 8
+        },
+        {
+          "text": "Supero obstáculos com determinação",
+          "weight": 9
+        },
+        {
+          "text": "Minha motivação é inabalável",
+          "weight": 8
+        },
+        {
+          "text": "Faço mais e melhor a cada dia",
+          "weight": 7
+        }
+      ]
+    },
+    "Aprendizado Acelerado": {
+      "weight": 15,
+      "active": true,
+      "messages": [
+        {
+          "text": "Absorvo conhecimento com facilidade",
+          "weight": 10
+        },
+        {
+          "text": "Minha memória é excelente e poderosa",
+          "weight": 10
+        },
+        {
+          "text": "Aprendo novas habilidades rapidamente",
+          "weight": 9
+        },
+        {
+          "text": "Cada informação fica gravada em mim",
+          "weight": 8
+        },
+        {
+          "text": "Meu cérebro processa ideias com clareza",
+          "weight": 8
+        },
+        {
+          "text": "Retenho tudo que leio e estudo",
+          "weight": 9
+        },
+        {
+          "text": "Sou um aprendiz natural e veloz",
+          "weight": 7
+        }
+      ]
+    },
+    "Abundância & Prosperidade": {
+      "weight": 15,
+      "active": true,
+      "messages": [
+        {
+          "text": "Atraio riqueza e prosperidade",
+          "weight": 10
+        },
+        {
+          "text": "O dinheiro flui para mim naturalmente",
+          "weight": 9
+        },
+        {
+          "text": "Sou merecedor de abundância total",
+          "weight": 10
+        },
+        {
+          "text": "Crio valor e sou recompensado generosamente",
+          "weight": 9
+        },
+        {
+          "text": "Minha mente está programada para o sucesso",
+          "weight": 10
+        },
+        {
+          "text": "Oportunidades aparecem constantemente",
+          "weight": 8
+        },
+        {
+          "text": "Minha renda cresce consistentemente",
+          "weight": 7
+        }
+      ]
+    },
+    "Paz & Equilíbrio Emocional": {
+      "weight": 10,
+      "active": true,
+      "messages": [
+        {
+          "text": "Mantenho a calma em qualquer situação",
+          "weight": 10
+        },
+        {
+          "text": "Controlo minhas emoções com maestria",
+          "weight": 9
+        },
+        {
+          "text": "Sou uma pessoa tranquila e equilibrada",
+          "weight": 10
+        },
+        {
+          "text": "Libero o estresse e a raiva com facilidade",
+          "weight": 9
+        },
+        {
+          "text": "Paz e serenidade habitam em mim",
+          "weight": 8
+        },
+        {
+          "text": "Reajo com sabedoria e equilíbrio",
+          "weight": 7
+        }
+      ]
+    },
+    "Saúde & Vitalidade": {
+      "weight": 10,
+      "active": true,
+      "messages": [
+        {
+          "text": "Meu corpo está saudável e forte",
+          "weight": 10
+        },
+        {
+          "text": "Tenho energia vital abundante",
+          "weight": 9
+        },
+        {
+          "text": "Cuido do meu corpo com amor e disciplina",
+          "weight": 8
+        },
+        {
+          "text": "Durmo profundamente e acordo renovado",
+          "weight": 8
+        },
+        {
+          "text": "Minha saúde melhora a cada dia",
+          "weight": 10
+        },
+        {
+          "text": "Meu corpo se regenera naturalmente",
+          "weight": 7
+        }
+      ]
+    },
+    "Sucesso & Realizações": {
+      "weight": 10,
+      "active": true,
+      "messages": [
+        {
+          "text": "Sou uma pessoa de alto desempenho",
+          "weight": 10
+        },
+        {
+          "text": "O sucesso é meu estado natural",
+          "weight": 10
+        },
+        {
+          "text": "Alcanço todos os meus objetivos",
+          "weight": 9
+        },
+        {
+          "text": "Penso grande e realizo grande",
+          "weight": 9
+        },
+        {
+          "text": "Sou persistente e nunca desisto",
+          "weight": 8
+        },
+        {
+          "text": "Transformo visão em realidade",
+          "weight": 7
+        }
+      ]
+    }
+  },
+  "display_time": 70,
+  "interval": 3000,
+  "font_family": "Segoe UI",
+  "font_size": 48,
+  "font_bold": true,
+  "text_color": "#FFFFFF",
+  "use_transparent_bg": true,
+  "bg_color": "#000000",
+  "opacity": 0.9,
+  "position": "random",
+  "order": "random",
+  "monitor_mode": "all",
+  "selected_monitors": [
+    0
+  ],
+  "auto_pause_loom": true,
+  "auto_pause_meeting": true,
+  "auto_pause_ps": true,
+  "schedule_enabled": false,
+  "schedule_start": "09:00",
+  "schedule_end": "18:00",
+  "hotkey_pause": "P",
+  "hotkey_stop": "S",
+  "goals": []
+}

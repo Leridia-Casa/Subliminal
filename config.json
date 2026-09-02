@@ -1,0 +1,18 @@
+{
+  "messages": [
+    "Eu sou confiante",
+    "Eu sou focado",
+    "Eu alcanço meus objetivos"
+  ],
+  "display_time": 33,
+  "interval": 5000,
+  "font_family": "Arial",
+  "font_size": 48,
+  "font_bold": true,
+  "text_color": "#FFFFFF",
+  "bg_color": "#000000",
+  "use_transparent_bg": true,
+  "opacity": 0.9,
+  "position": "center",
+  "order": "sequential"
+}
